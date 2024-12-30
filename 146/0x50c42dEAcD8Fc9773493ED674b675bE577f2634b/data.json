@@ -1,0 +1,8 @@
+{
+    "chainId": 146,
+    "address": "0x50c42dEAcD8Fc9773493ED674b675bE577f2634b",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/hypersonicexchange/wl-assets/main/146/0x50c42dEAcD8Fc9773493ED674b675bE577f2634b/logo.png"
+}

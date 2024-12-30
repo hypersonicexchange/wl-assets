@@ -1,0 +1,8 @@
+{
+    "chainId": 146,
+    "address": "0x29219dd400f2bf60e5a23d13be72b486d4038894",
+    "name": "Bridged USDC",
+    "symbol": "USDC.e",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/hypersonicexchange/wl-assets/main/146/0x29219dd400f2bf60e5a23d13be72b486d4038894/logo.png"
+}
