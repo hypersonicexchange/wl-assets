@@ -1,0 +1,8 @@
+{
+    "chainId": 10,
+    "address": "0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6",
+    "name": "Chainlink",
+    "symbol": "LINK",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/hypersonicexchange/wl-assets/main/10/0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6/logo.png"
+}

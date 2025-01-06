@@ -1,0 +1,8 @@
+{
+    "chainId": 10,
+    "address": "0x07ad578FF86B135bE19A12759064b802Cb88854D",
+    "name": "Boba Token",
+    "symbol": "BOBA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/hypersonicexchange/wl-assets/main/10/0x07ad578FF86B135bE19A12759064b802Cb88854D/logo.svg"
+}

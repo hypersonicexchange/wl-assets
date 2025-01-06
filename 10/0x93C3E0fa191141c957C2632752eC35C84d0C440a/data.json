@@ -1,0 +1,8 @@
+{
+    "chainId": 10,
+    "address": "0x93C3E0fa191141c957C2632752eC35C84d0C440a",
+    "name": "Zunami USD",
+    "symbol": "zunUSD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/hypersonicexchange/wl-assets/main/10/0x93C3E0fa191141c957C2632752eC35C84d0C440a/logo.svg"
+}

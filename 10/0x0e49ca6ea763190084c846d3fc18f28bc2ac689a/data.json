@@ -1,0 +1,8 @@
+{
+    "chainId": 10,
+    "address": "0x0e49ca6ea763190084c846d3fc18f28bc2ac689a",
+    "name": "Unit protocol",
+    "symbol": "DUCK",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/hypersonicexchange/wl-assets/main/10/0x0e49ca6ea763190084c846d3fc18f28bc2ac689a/logo.png"
+}

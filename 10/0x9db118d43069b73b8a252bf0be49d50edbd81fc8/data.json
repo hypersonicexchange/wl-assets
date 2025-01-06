@@ -1,0 +1,8 @@
+{
+    "chainId": 10,
+    "address": "0x9db118d43069b73b8a252bf0be49d50edbd81fc8",
+    "name": "XY Oracle",
+    "symbol": "XYO",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/hypersonicexchange/wl-assets/main/10/0x9db118d43069b73b8a252bf0be49d50edbd81fc8/logo.svg"
+}

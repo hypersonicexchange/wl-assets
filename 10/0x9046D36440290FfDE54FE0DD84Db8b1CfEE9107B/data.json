@@ -1,0 +1,8 @@
+{
+    "chainId": 10,
+    "address": "0x9046D36440290FfDE54FE0DD84Db8b1CfEE9107B",
+    "name": "yearn.finance",
+    "symbol": "YFI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/hypersonicexchange/wl-assets/main/10/0x9046D36440290FfDE54FE0DD84Db8b1CfEE9107B/logo.svg"
+}

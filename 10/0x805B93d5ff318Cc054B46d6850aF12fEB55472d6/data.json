@@ -1,0 +1,8 @@
+{
+    "chainId": 10,
+    "address": "0x805B93d5ff318Cc054B46d6850aF12fEB55472d6",
+    "name": "Zunami ETH",
+    "symbol": "zunETH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/hypersonicexchange/wl-assets/main/10/0x805B93d5ff318Cc054B46d6850aF12fEB55472d6/logo.svg"
+}

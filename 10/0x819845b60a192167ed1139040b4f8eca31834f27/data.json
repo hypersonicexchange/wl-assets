@@ -1,0 +1,8 @@
+{
+    "chainId": 10,
+    "address": "0x819845b60a192167ed1139040b4f8eca31834f27",
+    "name": "MetaPoolETH",
+    "symbol": "mpETH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/hypersonicexchange/wl-assets/main/10/0x819845b60a192167ed1139040b4f8eca31834f27/logo.svg"
+}

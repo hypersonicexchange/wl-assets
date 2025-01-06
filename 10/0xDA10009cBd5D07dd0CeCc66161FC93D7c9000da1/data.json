@@ -1,0 +1,8 @@
+{
+    "chainId": 10,
+    "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/hypersonicexchange/wl-assets/main/10/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1/logo.svg"
+}

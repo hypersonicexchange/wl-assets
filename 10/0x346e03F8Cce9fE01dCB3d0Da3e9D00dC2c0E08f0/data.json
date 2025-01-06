@@ -1,0 +1,8 @@
+{
+    "chainId": 10,
+    "address": "0x346e03F8Cce9fE01dCB3d0Da3e9D00dC2c0E08f0",
+    "name": "Wrapped eETH",
+    "symbol": "weETH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/hypersonicexchange/wl-assets/main/10/0x346e03F8Cce9fE01dCB3d0Da3e9D00dC2c0E08f0/logo.svg"
+}

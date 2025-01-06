@@ -1,0 +1,8 @@
+{
+    "chainId": 10,
+    "address": "0x01B8b6384298D4848E3BE63D4C9D17830EeE488A",
+    "name": "DAOhaus Token",
+    "symbol": "HAUS",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/hypersonicexchange/wl-assets/main/10/0x01B8b6384298D4848E3BE63D4C9D17830EeE488A/logo.png"
+}

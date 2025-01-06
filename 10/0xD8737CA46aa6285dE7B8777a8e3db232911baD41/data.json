@@ -1,0 +1,8 @@
+{
+    "chainId": 10,
+    "address": "0xD8737CA46aa6285dE7B8777a8e3db232911baD41",
+    "name": "StaFi Token",
+    "symbol": "FIS",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/hypersonicexchange/wl-assets/main/10/0xD8737CA46aa6285dE7B8777a8e3db232911baD41/logo.svg"
+}

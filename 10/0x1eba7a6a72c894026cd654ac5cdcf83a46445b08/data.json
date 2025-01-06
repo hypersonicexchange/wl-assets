@@ -1,0 +1,8 @@
+{
+    "chainId": 10,
+    "address": "0x1eba7a6a72c894026cd654ac5cdcf83a46445b08",
+    "name": "Gitcoin",
+    "symbol": "GTC",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/hypersonicexchange/wl-assets/main/10/0x1eba7a6a72c894026cd654ac5cdcf83a46445b08/logo.svg"
+}

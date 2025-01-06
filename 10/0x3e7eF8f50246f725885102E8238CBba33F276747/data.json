@@ -1,0 +1,8 @@
+{
+    "chainId": 10,
+    "address": "0x3e7eF8f50246f725885102E8238CBba33F276747",
+    "name": "BarnBridge Governance Token",
+    "symbol": "BOND",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/hypersonicexchange/wl-assets/main/10/0x3e7eF8f50246f725885102E8238CBba33F276747/logo.svg"
+}

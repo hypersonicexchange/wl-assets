@@ -1,0 +1,8 @@
+{
+    "chainId": 10,
+    "address": "0xFdb794692724153d1488CcdBE0C56c252596735F",
+    "name": "Lido DAO Token",
+    "symbol": "LDO",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/hypersonicexchange/wl-assets/main/10/0xFdb794692724153d1488CcdBE0C56c252596735F/logo.svg"
+}

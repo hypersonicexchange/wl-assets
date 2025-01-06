@@ -1,0 +1,8 @@
+{
+    "chainId": 10,
+    "address": "0xaf8ca653fa2772d58f4368b0a71980e9e3ceb888",
+    "name": "Tellor",
+    "symbol": "TRB",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/hypersonicexchange/wl-assets/main/10/0x3Eb398fEc5F7327C6b15099a9681d9568ded2e82/logo.png"
+}

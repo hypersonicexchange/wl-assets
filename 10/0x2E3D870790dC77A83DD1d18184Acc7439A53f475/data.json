@@ -1,0 +1,8 @@
+{
+    "chainId": 10,
+    "address": "0x2E3D870790dC77A83DD1d18184Acc7439A53f475",
+    "name": "FRAX",
+    "symbol": "FRAX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/hypersonicexchange/wl-assets/main/10/0x2E3D870790dC77A83DD1d18184Acc7439A53f475/logo.svg"
+}

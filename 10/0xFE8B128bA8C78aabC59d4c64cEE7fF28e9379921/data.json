@@ -1,0 +1,8 @@
+{
+    "chainId": 10,
+    "address": "0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921",
+    "name": "Balancer",
+    "symbol": "BAL",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/hypersonicexchange/wl-assets/main/10/0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921/logo.png"
+}

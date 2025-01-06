@@ -1,0 +1,8 @@
+{
+    "chainId": 10,
+    "address": "0xb548f63d4405466b36c0c0ac3318a22fdcec711a",
+    "name": "Rari Governance Token",
+    "symbol": "RGT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/hypersonicexchange/wl-assets/main/10/0xb548f63d4405466b36c0c0ac3318a22fdcec711a/logo.png"
+}

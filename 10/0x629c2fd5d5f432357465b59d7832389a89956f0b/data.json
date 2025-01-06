@@ -1,0 +1,8 @@
+{
+    "chainId": 10,
+    "address": "0x629c2fd5d5f432357465b59d7832389a89956f0b",
+    "name": "CryptoOracle Collective",
+    "symbol": "COC",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/hypersonicexchange/wl-assets/main/10/0x629c2fd5d5f432357465b59d7832389a89956f0b/logo.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "chainId": 10,
+    "address": "0x7d14206c937e70e19e3a5b94011faf0d5b3928e2",
+    "name": "VitaDAO Token",
+    "symbol": "VITA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/hypersonicexchange/wl-assets/main/10/0x7d14206c937e70e19e3a5b94011faf0d5b3928e2/logo.svg"
+}

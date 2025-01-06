@@ -1,0 +1,8 @@
+{
+    "chainId": 10,
+    "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
+    "name": "Perpetual",
+    "symbol": "PERP",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/hypersonicexchange/wl-assets/main/10/0x9e1028F5F1D5eDE59748FFceE5532509976840E0/logo.png"
+}

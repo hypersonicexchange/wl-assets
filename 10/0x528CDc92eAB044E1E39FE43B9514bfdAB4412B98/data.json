@@ -1,0 +1,8 @@
+{
+    "chainId": 10,
+    "address": "0x528CDc92eAB044E1E39FE43B9514bfdAB4412B98",
+    "name": "Giveth Token",
+    "symbol": "GIV",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/hypersonicexchange/wl-assets/main/10/0x528CDc92eAB044E1E39FE43B9514bfdAB4412B98/logo.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "chainId": 10,
+    "address": "0x8aE125E8653821E851F12A49F7765db9a9ce7384",
+    "name": "Dola USD Stablecoin",
+    "symbol": "DOLA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/hypersonicexchange/wl-assets/main/10/0x8aE125E8653821E851F12A49F7765db9a9ce7384/logo.svg"
+}

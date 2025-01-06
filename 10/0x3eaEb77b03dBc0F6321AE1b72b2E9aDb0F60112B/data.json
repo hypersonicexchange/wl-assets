@@ -1,0 +1,8 @@
+{
+    "chainId": 10,
+    "address": "0x3eaEb77b03dBc0F6321AE1b72b2E9aDb0F60112B",
+    "name": "SushiToken",
+    "symbol": "SUSHI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/hypersonicexchange/wl-assets/main/10/0x3eaEb77b03dBc0F6321AE1b72b2E9aDb0F60112B/logo.svg"
+}

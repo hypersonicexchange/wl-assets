@@ -1,0 +1,8 @@
+{
+    "chainId": 10,
+    "address": "0xc5d43a94e26fca47a9b21cf547ae4aa0268670e1",
+    "name": "Frax Price Index",
+    "symbol": "FPI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/hypersonicexchange/wl-assets/main/10/0xc5d43a94e26fca47a9b21cf547ae4aa0268670e1/logo.svg"
+}

@@ -1,0 +1,8 @@
+{
+    "chainId": 10,
+    "address": "0xcB59a0A753fDB7491d5F3D794316F1adE197B21E",
+    "name": "TrueUSD",
+    "symbol": "TUSD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/hypersonicexchange/wl-assets/main/10/0xcB59a0A753fDB7491d5F3D794316F1adE197B21E/logo.png"
+}

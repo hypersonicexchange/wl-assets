@@ -1,0 +1,8 @@
+{
+    "chainId": 10,
+    "address": "0xE405de8F52ba7559f9df3C368500B6E6ae6Cee49",
+    "name": "Synthetic Ether",
+    "symbol": "sETH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/hypersonicexchange/wl-assets/main/10/0xE405de8F52ba7559f9df3C368500B6E6ae6Cee49/logo.svg"
+}

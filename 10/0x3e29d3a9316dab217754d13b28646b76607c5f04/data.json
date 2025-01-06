@@ -1,0 +1,8 @@
+{
+    "chainId": 10,
+    "address": "0x3e29d3a9316dab217754d13b28646b76607c5f04",
+    "name": "Alchemix ETH",
+    "symbol": "alETH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/hypersonicexchange/wl-assets/main/10/0x3e29d3a9316dab217754d13b28646b76607c5f04/logo.svg"
+}

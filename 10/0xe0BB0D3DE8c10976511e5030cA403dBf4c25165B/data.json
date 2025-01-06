@@ -1,0 +1,8 @@
+{
+    "chainId": 10,
+    "address": "0xe0BB0D3DE8c10976511e5030cA403dBf4c25165B",
+    "name": "0xBitcoin",
+    "symbol": "0xBTC",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/hypersonicexchange/wl-assets/main/10/0xe0BB0D3DE8c10976511e5030cA403dBf4c25165B/logo.png"
+}

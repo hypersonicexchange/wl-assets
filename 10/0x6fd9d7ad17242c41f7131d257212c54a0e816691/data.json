@@ -1,0 +1,8 @@
+{
+    "chainId": 10,
+    "address": "0x6fd9d7ad17242c41f7131d257212c54a0e816691",
+    "name": "Uniswap",
+    "symbol": "UNI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/hypersonicexchange/wl-assets/main/10/0x6fd9d7ad17242c41f7131d257212c54a0e816691/logo.png"
+}

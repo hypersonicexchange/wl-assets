@@ -1,0 +1,8 @@
+{
+    "chainId": 10,
+    "address": "0x6806411765Af15Bddd26f8f544A34cC40cb9838B",
+    "name": "Frax Ether",
+    "symbol": "frxETH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/hypersonicexchange/wl-assets/main/10/0x6806411765Af15Bddd26f8f544A34cC40cb9838B/logo.png"
+}
