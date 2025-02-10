@@ -1,0 +1,8 @@
+{
+    "chainId": 146,
+    "address": "0x6047828dc181963ba44974801FF68e538dA5eaF9",
+    "name": "Bridged USDT",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/hypersonicexchange/wl-assets/main/146/0x6047828dc181963ba44974801FF68e538dA5eaF9/logo.png"
+}
